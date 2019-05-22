@@ -2,16 +2,24 @@
   {
     "merchant": "1770 Creek to Reef Fishing Charters",
     "location": "1770 Marina, Captain Cook Drive, Town of 1770, Seventeen Seventy QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.172069",
     "longitude": "151.886044"
   },
   {
+    "merchant": "1770 Golf Course and Driving Range",
+    "location": "2366 Round Hill Rd, Round Hill QLD 4677",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.24344",
+    "longitude": "151.866126"
+  },
+  {
     "merchant": "1770 LARC! Tours",
     "location": "1770 Marina, 535 Captain Cook Drive, Town of 1770",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.171553",
     "longitude": "151.883113"
   },
@@ -19,39 +27,39 @@
     "merchant": "1770 Marina Cafe",
     "location": "535 Captain Cook Drive, 1770, QLD 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.171537",
     "longitude": "151.883138"
   },
   {
-    "merchant": "1770 Shuttle & Tour",
+    "merchant": "1770 Shuttle & Tours",
     "location": "273 Bicentennial Dr, Agnes Water QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.217512",
     "longitude": "151.912784"
   },
   {
     "merchant": "1770 SUP",
     "location": "2741 Round Hill Road Agnes Water Queensland 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.206169",
     "longitude": "151.901998"
   },
   {
     "merchant": "2 Gems Media",
     "location": "https://2gems.media/",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.625855",
     "longitude": "152.975715"
   },
   {
     "merchant": "442 Travel Group",
     "location": "https://www.442travel.com.au/",
-    "category": "Service",
-    "region": "Melbourne",
+    "category": "Services",
+    "region": "Melbourne, VIC",
     "latitude": "-37.837194",
     "longitude": "144.975147"
   },
@@ -59,7 +67,7 @@
     "merchant": "5 Dogs",
     "location": "290 Brunswick Street, Fortitude Valley 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.45749",
     "longitude": "153.034279"
   },
@@ -67,7 +75,7 @@
     "merchant": "7th Avenue Fish & Chips",
     "location": "7/1160 Gold Coast Hwy, Palm Beach QLD 4221",
     "category": "Dining",
-    "region": "Gold Coast ",
+    "region": "Gold Coast, QLD",
     "latitude": "-28.119299",
     "longitude": "153.471427"
   },
@@ -75,15 +83,39 @@
     "merchant": "Accomm1770",
     "location": "Shop 20 Endeavour Plaza/Captain Cook Drive, Captain Cook Drive, Agnes Water QLD 4677",
     "category": "Accommodation",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.211231",
     "longitude": "151.902807"
   },
   {
+    "merchant": "Adelaide Walks n' Talks with Neil",
+    "location": "Adelaide SA 5000",
+    "category": "Travel Experiences",
+    "region": "Adelaide, SA",
+    "latitude": "-34.927244",
+    "longitude": "138.600761"
+  },
+  {
+    "merchant": "Agnes 1770 Camel Tours",
+    "location": "Town of 1770/Agnes Water, QLD",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.206316",
+    "longitude": "151.905261"
+  },
+  {
+    "merchant": "Agnes Water/1770 Bait & Tackle",
+    "location": "Agnes Water Shopping Centre, 7-8/2955 Round Hill Rd, Agnes Water QLD 4677",
+    "category": "Retail",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.212936",
+    "longitude": "151.902076"
+  },
+  {
     "merchant": "Agnes Water 1770 Camping And Outdoor",
     "location": "Shop 9, Agnes Water Shopping Centre 2955 Round Hill Road (239.16 mi) Agnes Water 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Retail",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.212662",
     "longitude": "151.902093"
   },
@@ -91,7 +123,7 @@
     "merchant": "Agnes Water Beach Boutique",
     "location": "16 Endeavour Plaza, Captain Cook Drive Agnes Water 4677",
     "category": "Retail",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.211389",
     "longitude": "151.90307"
   },
@@ -99,15 +131,15 @@
     "merchant": "Agnes Water Tavern",
     "location": "1 Tavern Road, Agnes Water 4677 QLD",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.21495",
     "longitude": "151.902493"
   },
   {
     "merchant": "Ainslie Bullion",
     "location": "6/12 Creek St, Brisbane City QLD 4000",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.468133",
     "longitude": "153.029634"
   },
@@ -115,7 +147,7 @@
     "merchant": "Ambrosia Indian Restaurant",
     "location": "310/1-5 Woolgar Ro, Gympie QLD 4570",
     "category": "Dining",
-    "region": "Gympie",
+    "region": "Gympie, QLD",
     "latitude": "-26.199213",
     "longitude": "152.649688"
   },
@@ -123,87 +155,127 @@
     "merchant": "Another World Computer Centre",
     "location": "429 Sydney Rd, Coburg VIC 3058",
     "category": "Retail",
-    "region": "Victoria ",
+    "region": "Melbourne, VIC",
     "latitude": "-37.743098",
     "longitude": "144.96608"
-  },
-  {
-    "merchant": "Aurora Bridal",
-    "location": "Eagle Vale (Sydney), NSW",
-    "category": "Retail",
-    "region": "Sydney",
-    "latitude": "28.135003",
-    "longitude": "-80.670819"
   },
   {
     "merchant": "Aurore Bridal",
     "location": "Noosa (Cooroibah), Qld",
     "category": "Retail",
-    "region": "Noosa ",
+    "region": "Noosa, QLD",
     "latitude": "-26.354763",
     "longitude": "152.875588"
   },
   {
-    "merchant": "Australian Way",
-    "location": "Brisbane Airport International Airport QLD 4009",
+    "merchant": "Australian Way (Brisbane International Airport)",
+    "location": "Level 3 and Level 4, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.403472",
     "longitude": "153.109681"
+  },
+  {
+    "merchant": "Avestix Lab",
+    "location": "143 Wickham St, Fortitude Valley QLD 4006",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.458703",
+    "longitude": "153.032744"
   },
   {
     "merchant": "Backpackers@1770",
     "location": "22 Grahame Colyer Drive, Agnes Water QLD 4677",
     "category": "Accommodation",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.21067",
     "longitude": "151.902205"
   },
   {
-    "merchant": "Balti Indian Restaurant",
-    "location": "270-290 Brunswick Street, Fortitude Valley 4006",
+    "merchant": "Balamara Bakery",
+    "location": "LOT 4 Vindex St, Winton QLD 4735",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Winton, QLD",
+    "latitude": "-22.390078",
+    "longitude": "143.037183"
+  },
+  {
+    "merchant": "Balti Indian Restaurant",
+    "location": "270-290 Brunswick Street, Fortitude Valley QLD 4006",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457064",
     "longitude": "153.034404"
   },
   {
     "merchant": "Banh Mi Time",
-    "location": "247 Wickham Street, Fortitude Valley 4006",
+    "location": "247 Wickham Street, Fortitude Valley QLD 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457375",
     "longitude": "153.034214"
+  },
+  {
+    "merchant": "Barron Valley Hotel",
+    "location": "53 Main St, Atherton QLD 4883",
+    "category": "Dining",
+    "region": "Atherton, QLD",
+    "latitude": "-17.265229",
+    "longitude": "145.475942"
   },
   {
     "merchant": "Bellissmo Coffee",
     "location": "30 Wandoo St, Fortitude Valley QLD 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.455261",
     "longitude": "153.040527"
   },
   {
     "merchant": "Bisou Hair Artistry",
     "location": "9/27 Park Ave, Burleigh Heads QLD 4220",
-    "category": "Service",
-    "region": "Gold Coast ",
+    "category": "Services",
+    "region": "Gold Coast, QLD",
     "latitude": "-28.089527",
     "longitude": "153.449706"
+  },
+  {
+    "merchant": "Blackmarket Collective",
+    "location": "1/76 Robina Town Centre Dr, Robina QLD 4226",
+    "category": "Retail",
+    "region": "Gold Coast, QLD",
+    "latitude": "-28.078675",
+    "longitude": "153.389461"
+  },
+  {
+    "merchant": "Blockchain Centre",
+    "location": "710 Collins St, Docklands VIC 3008",
+    "category": "Services",
+    "region": "Melbourne, VIC",
+    "latitude": "-37.819887",
+    "longitude": "144.950395"
   },
   {
     "merchant": "Blue Door Cafe",
     "location": "363-365 Hunter St, Newcastle NSW 2300",
     "category": "Dining",
-    "region": "Newcastle",
+    "region": "Newcastle, NSW",
     "latitude": "-32.926935",
     "longitude": "151.772931"
   },
   {
+    "merchant": "Blue Mantis Training Systems",
+    "location": "49 Josefski Rd Agnes Water 4677",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.241812",
+    "longitude": "151.8913"
+  },
+  {
     "merchant": "Blue Ocean Signs & Graphics",
     "location": "189 Streeter Dr, Agnes Water QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.246299",
     "longitude": "151.901199"
   },
@@ -211,23 +283,31 @@
     "merchant": "Boat Sales Tasmania",
     "location": "https://www.boatsalestas.com.au/",
     "category": "Retail",
-    "region": "Tasmania/Online",
+    "region": "Online",
     "latitude": "-42.876837",
     "longitude": "147.337198"
   },
   {
     "merchant": "Boatbits",
     "location": "http://boatbits.com.au/",
-    "category": "Accessories",
+    "category": "Retail",
     "region": "Online",
     "latitude": "-33.492994",
     "longitude": "151.388085"
   },
   {
+    "merchant": "Bodkins Bootery",
+    "location": "72 High St, Fremantle WA 6160",
+    "category": "Retail",
+    "region": "Perth, WA",
+    "latitude": "-32.054779",
+    "longitude": "115.745263"
+  },
+  {
     "merchant": "Boroughs of New York Pizza",
     "location": "757 Ann St, Fortitude Valley QLD 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.456482",
     "longitude": "153.036878"
   },
@@ -235,15 +315,23 @@
     "merchant": "Brew Cafe and Wine Bar",
     "location": "Lower Burnett Lane, Brisbane City QLD 4000",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.468865",
     "longitude": "153.025085"
   },
   {
-    "merchant": "Burger Urge",
-    "location": "Brisbane Airport International Terminal",
+    "merchant": "Brisbane Convention & Exhibition Centre",
+    "location": "Merivale St & Glenelg Street, South Brisbane QLD 4101",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.476472",
+    "longitude": "153.018378"
+  },
+  {
+    "merchant": "Burger Urge (Brisbane International Airport)",
+    "location": "Level 3, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.403434",
     "longitude": "153.109691"
   },
@@ -251,7 +339,7 @@
     "merchant": "Burrito Shack",
     "location": "292 Brunswick Street, Fortitude Valley 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457152",
     "longitude": "153.034337"
   },
@@ -259,23 +347,15 @@
     "merchant": "Cafe Discovery at Agnes",
     "location": "Shop 4 Agnes Central Shopping Centre, 1779 QLD 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.212901",
     "longitude": "151.90182"
   },
   {
-    "merchant": "Cape Trib Express ",
-    "location": "https://www.capetribexpress.com.au/",
-    "category": "Service",
-    "region": "Online",
-    "latitude": "-16.097416",
-    "longitude": "145.458368"
-  },
-  {
-    "merchant": "Carry On",
-    "location": "Brisbane Airport (International Terminal) QLD 4009",
+    "merchant": "Carry On (Brisbane International Airport)",
+    "location": "Level 4, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.403434",
     "longitude": "153.109691"
   },
@@ -283,87 +363,95 @@
     "merchant": "Codie's Place",
     "location": "7 Agnes St, Agnes Water QLD 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.209845",
     "longitude": "151.905731"
   },
   {
     "merchant": "Cool Bananas Backpackers",
-    "location": "2 Springs Road, 4677 Agnes Water",
+    "location": "2 Springs Road, Agnes Water QLD 4677",
     "category": "Accommodation",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.212063",
     "longitude": "151.906584"
   },
   {
     "merchant": "Cosnett Training Systems",
     "location": "47 Frankston Gardens Dr, Carrum Downs VIC 3902",
-    "category": "Service",
-    "region": "Victoria ",
+    "category": "Services",
+    "region": "Melbourne, VIC",
     "latitude": "-38.102658",
     "longitude": "145.159937"
   },
   {
     "merchant": "Crown & Co. Barbers",
     "location": "368 Brunswick St,Fortitude Valley QLD 4006",
-    "category": "Personal Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.458603",
     "longitude": "153.03561"
   },
   {
+    "merchant": "Crypto Clothesline Podcast",
+    "location": "https://www.cryptoclothesline.com/",
+    "category": "Services",
+    "region": "Online",
+    "latitude": "-32.055547",
+    "longitude": "115.743859"
+  },
+  {
     "merchant": "CtrL",
     "location": "25 / 192 Delancey Street Orminston - Queensland 4160",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.513045",
     "longitude": "153.251851"
+  },
+  {
+    "merchant": "DC Blooms & Co.",
+    "location": "Endeavour Plaza, shop, 23 Captain Cook Dr, Agnes Water QLD 4677",
+    "category": "Retail",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.20424",
+    "longitude": "151.897487"
   },
   {
     "merchant": "Delhi Streets",
     "location": "22 Katherine Place, Melbourne 3000",
     "category": "Dining",
-    "region": "Melbourne",
+    "region": "Melbourne, VIC",
     "latitude": "-37.819638",
     "longitude": "144.956463"
   },
   {
     "merchant": "Discover 1770 Information & Tours",
     "location": "Round Hill Rd & Captain Cook Dr, Agnes Water QLD 4677",
-    "category": "Travel agency",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.212436",
     "longitude": "151.902489"
   },
   {
-    "merchant": "Dollars and sence",
+    "merchant": "Dollars and Sense (Fortitude Valley)",
     "location": "202/270-292 Brunswick St, Fortitude Valley QLD 4006",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457059",
     "longitude": "153.034009"
   },
   {
-    "merchant": "Down Under Bar",
-    "location": "102 Lake St, Cairns City QLD 4870",
-    "category": "Dining",
-    "region": "Brisbane",
-    "latitude": "-16.920982",
-    "longitude": "145.775406"
-  },
-  {
-    "merchant": "Dreamtime Journey",
+    "merchant": "Dreamtime Journey (Brisbane International Airport)",
     "location": "Level 3, after security， Brisbane Airport (International Terminal) QLD 4009",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.385206",
     "longitude": "153.12023"
   },
   {
     "merchant": "Ecotekk: Noosa Electric Bikes",
     "location": "2 Yellowood Cl, Tewantin 4565",
-    "category": "Service",
-    "region": "Noosa ",
+    "category": "Travel Experiences",
+    "region": "Noosa, QLD",
     "latitude": "-26.384379",
     "longitude": "153.022656"
   },
@@ -371,39 +459,55 @@
     "merchant": "Edge on Beaches 1770 Resort",
     "location": "Cnr Captain Cook Drive & Beaches Village Circuit, Agnes Water 4677 QLD",
     "category": "Accommodation",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.196643",
     "longitude": "151.895792"
   },
   {
     "merchant": "Elite Limousines",
     "location": "Sydney Metropolitan. Gaurav Handa 0406 623 123",
-    "category": "Service",
-    "region": "Sydney",
+    "category": "Services",
+    "region": "Sydney, NSW",
     "latitude": "-33.868759",
     "longitude": "151.207589"
   },
   {
+    "merchant": "F45 North Adelaide",
+    "location": "103 Melbourne St, North Adelaide SA 5006",
+    "category": "Services",
+    "region": "Adelaide, SA",
+    "latitude": "-34.907016",
+    "longitude": "138.607932"
+  },
+  {
     "merchant": "Flight Path Golf",
     "location": "790 Vanderlin Dr, Berrimah NT 0828",
-    "category": "Service",
-    "region": "Northern Territory",
+    "category": "Travel Experiences",
+    "region": "Darwin, NT",
     "latitude": "-12.425239",
     "longitude": "130.921819"
   },
   {
-    "merchant": "Forte Espresso",
-    "location": "Brisbane Airpot, Domestic Terminal",
-    "category": "Dining",
-    "region": "Brisbane",
-    "latitude": "-27.384217",
-    "longitude": "153.119032"
+    "merchant": "Fox Glenn Motor Inn",
+    "location": "30 Nicholls Rd, Monkland QLD 4570",
+    "category": "Accommodation",
+    "region": "Gympie, QLD",
+    "latitude": "-26.2131",
+    "longitude": "152.680651"
+  },
+  {
+    "merchant": "Future Cities",
+    "location": "www.futurecities.com.au/",
+    "category": "Services",
+    "region": "Online",
+    "latitude": "-37.812053",
+    "longitude": "144.965458"
   },
   {
     "merchant": "Gabyon Station Stay",
     "location": "1 Geraldton Mt Magnet Rd, Yalgoo WA 6635",
-    "category": "Travel Agency",
-    "region": "Yalgoo",
+    "category": "Accommodation",
+    "region": "Yalgoo, WA",
     "latitude": "-28.249532",
     "longitude": "116.340548"
   },
@@ -411,47 +515,63 @@
     "merchant": "Garden Verde",
     "location": "385 Sherwood Rd, Rocklea QLD 4106",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.53486",
     "longitude": "152.998915"
   },
   {
-    "merchant": "Giancarlos",
-    "location": "Brisbane Airport Domestic Terminal",
+    "merchant": "Genesis Electrical",
+    "location": "52 Jensen Rd, Banyo QLD 4014",
+    "category": "Services",
+    "region": "Banyo, QLD",
+    "latitude": "-27.369709",
+    "longitude": "153.076388"
+  },
+  {
+    "merchant": "Getaway Garden Cafe",
+    "location": "303 Bicentennial Dr, Agnes Water QLD 4677",
     "category": "Dining",
-    "region": "Brisbane",
-    "latitude": "-27.384217",
-    "longitude": "153.119032"
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.216975",
+    "longitude": "151.914574"
   },
   {
     "merchant": "Giardinetto",
     "location": "366 Brunswick Street, Fortitude Valley 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.458559",
     "longitude": "153.035562"
   },
   {
-    "merchant": "Glamourpuss Beauty Studio",
-    "location": "Agnes Water Shopping Centre, 10 Round Hill Rd, Agnes Water QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
-    "latitude": "-24.212897",
-    "longitude": "151.902074"
+    "merchant": "Gibson's Pet Friendly Accommodation",
+    "location": "3/7 Gibbons Ct, Agnes Water QLD 4677",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.213812",
+    "longitude": "151.907191"
   },
   {
-    "merchant": "Great Northern Bar",
-    "location": "Brisbane Airport Domestic Terminal",
-    "category": "Dining",
-    "region": "Brisbane",
-    "latitude": "-27.385365",
-    "longitude": "153.120391"
+    "merchant": "Gladstone Heights",
+    "location": "92/96 Central Ln, Gladstone QLD 4680",
+    "category": "Accommodation, QLD",
+    "region": "Gladstone",
+    "latitude": "-23.846304",
+    "longitude": "151.256976"
+  },
+  {
+    "merchant": "Glamourpuss Beauty Studio",
+    "location": "Agnes Water Shopping Centre, 10 Round Hill Rd, Agnes Water QLD 4677",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
+    "latitude": "-24.212897",
+    "longitude": "151.902074"
   },
   {
     "merchant": "Green Turtle Cafe & Bar",
     "location": "40 Captain Cook Dr, Agnes Water QLD 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.208055",
     "longitude": "151.902574"
   },
@@ -459,39 +579,79 @@
     "merchant": "Gringo Loco Cantina",
     "location": "101/4 Esplanade, Surfers Paradise QLD 4217",
     "category": "Dining",
-    "region": "Gold Coast ",
+    "region": "Gold Coast, QLD",
     "latitude": "-28.00097",
     "longitude": "153.430881"
+  },
+  {
+    "merchant": "Herbal Zest",
+    "location": "https://www.herbalzest.com.au/",
+    "category": "Retail",
+    "region": "Online",
+    "latitude": "-24.214812",
+    "longitude": "151.927191"
+  },
+  {
+    "merchant": "Hero Flooring",
+    "location": "Sunshine Coast QLD 4561",
+    "category": "Services",
+    "region": "Sunshine Coast, QLD",
+    "latitude": "-26.649524",
+    "longitude": "153.066486"
   },
   {
     "merchant": "Hungry Joe's Pizza & Ribs",
     "location": "4/11 University Ave, Palmerston City NT 0830",
     "category": "Dining",
-    "region": "Northern Territory",
+    "region": "Darwin, NT",
     "latitude": "-12.476944",
     "longitude": "130.984309"
+  },
+  {
+    "merchant": "IGA X-press (Bowen Hills)",
+    "location": "35 Campbell St, Bowen Hills QLD 4006",
+    "category": "Retail",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.447377",
+    "longitude": "153.036304"
+  },
+  {
+    "merchant": "Install Express",
+    "location": "Algoori St, Brisbane QLD 4169",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.461079",
+    "longitude": "153.071848"
   },
   {
     "merchant": "JAMROC Jamaican Jerk Chicken",
     "location": "Q Super Centre, c51a Corner of Bermuda & Markeri Streets, Mermaid Waters QLD 4218",
     "category": "Dining",
-    "region": "Gold Coast ",
+    "region": "Gold Coast, QLD",
     "latitude": "-28.045052",
     "longitude": "153.407573"
   },
   {
-    "merchant": "Juice Energy",
-    "location": "230 Brunswick Street, Fortitude Valley 4006",
-    "category": "Beverage",
-    "region": "Brisbane",
-    "latitude": "-27.455949",
-    "longitude": "153.033607"
+    "merchant": "Kedron Chemmart Pharmacy",
+    "location": "2/232 Gympie Road, Kedron QLD 4031",
+    "category": "Retail",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.408546",
+    "longitude": "153.032172"
+  },
+  {
+    "merchant": "Kerry Street Pear Tree Cafe",
+    "location": "1 Kerry St, Hamilton Hill WA 6163",
+    "category": "Dining",
+    "region": "Perth, WA",
+    "latitude": "-32.081135",
+    "longitude": "115.77432"
   },
   {
     "merchant": "King Road Brewing Co",
     "location": "796 King Rd, Oldbury WA 6121",
     "category": "Dining",
-    "region": "Western Australia",
+    "region": "Perth, WA",
     "latitude": "-32.288703",
     "longitude": "115.904783"
   },
@@ -499,31 +659,31 @@
     "merchant": "La Stazione Bakery",
     "location": "27 Rohini Street Sydney, Australia 2074",
     "category": "Dining",
-    "region": "Sydney",
+    "region": "Sydney, NSW",
     "latitude": "-33.731985",
     "longitude": "151.129134"
   },
   {
     "merchant": "Lady Musgrave Cruises ",
     "location": "535 Captain Cook Dr, Seventeen Seventy QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.154875",
     "longitude": "151.881868"
   },
   {
-    "merchant": "Lagoons 1770 Resort Spa",
+    "merchant": "Lagoons 1770 Resort & Spa",
     "location": "Captain Cook Dr, Agnes Water QLD 4677",
     "category": "Accommodation",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.195785",
     "longitude": "151.894934"
   },
   {
-    "merchant": "Ltd Espresso + brew bar",
+    "merchant": "Ltd Espresso + Brew Bar",
     "location": "362 Brusnwick Street, Fortitude Valley",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.45839",
     "longitude": "153.035562"
   },
@@ -531,151 +691,295 @@
     "merchant": "Lugarno Pharmacy",
     "location": "1020 Forest Rd, Lugarno NSW 2210",
     "category": "Retail",
-    "region": "New South Wales",
+    "region": "Lugarno, NSW",
     "latitude": "-33.975229",
     "longitude": "151.047559"
   },
   {
-    "merchant": "Lunch on 107 (Sydney)",
+    "merchant": "Lunch on 107",
     "location": "107 Young St, Parkside SA 5063",
     "category": "Dining",
-    "region": "Southern Australia",
+    "region": "Adelaide, SA",
     "latitude": "-34.942203",
     "longitude": "138.613139"
   },
   {
-    "merchant": "Mad Mex",
-    "location": "Brisbane Airport Domestic and International Terminal",
+    "merchant": "Mad Mex (Brisbane Domestic Airport)",
+    "location": "Level 2, Brisbane Airport (Domestic Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.386169",
+    "longitude": "153.119334"
+  },
+  {
+    "merchant": "Mad Mex (Brisbane International Airport)",
+    "location": "Level 4, Brisbane Airport (International Terminal) QLD 4009",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
     "latitude": "-27.402903",
     "longitude": "153.110518"
   },
   {
-    "merchant": "Madonnas Cafe",
+    "merchant": "Madonna's Cafe",
     "location": "2 Captain Cook Dr | in the IGA plaza complex, Agnes Water, Queensland 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-23.98534",
     "longitude": "151.891895"
+  },
+  {
+    "merchant": "Mani Business Services",
+    "location": "South Bunbury, WA 6230",
+    "category": "Services",
+    "region": "Perth, WA",
+    "latitude": "-33.349059",
+    "longitude": "115.633015"
   },
   {
     "merchant": "Maple Cafe",
     "location": "Shop 6/17-19 Abbott St, East Launceston TAS 7250",
     "category": "Dining",
-    "region": "Tasmania",
+    "region": "Launceston, TAS",
     "latitude": "-41.43683",
     "longitude": "147.151467"
   },
   {
-    "merchant": "Moondoggie Tour",
+    "merchant": "Merino Collection (Brisbane International Airport)",
+    "location": "Level 3, Brisbane Airport (International Terminal) QLD 4009",
+    "category": "Retail",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.403964",
+    "longitude": "153.109895"
+  },
+  {
+    "merchant": "Moondoggie Tours",
     "location": "785 Round Hill Rd, Captain Creek QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.334531",
     "longitude": "151.770392"
   },
   {
-    "merchant": "Mums Electrical",
+    "merchant": "Mum's Electrical",
     "location": "Caboolture, QLD, 4510",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.070108",
     "longitude": "152.965903"
   },
   {
-    "merchant": "Natures Hideaway Spa (Perth)",
+    "merchant": "Muscle Bar Cafe",
+    "location": "101 Melbourne St, North Adelaide SA 5006",
+    "category": "Dining",
+    "region": "Adelaide, SA",
+    "latitude": "-34.906931",
+    "longitude": "138.607844"
+  },
+  {
+    "merchant": "Nature's Hideaway Spa",
     "location": "114 Walter Road West Bedford, WA 6052",
-    "category": "Service",
-    "region": "Western Australia",
+    "category": "Services",
+    "region": "Perth, WA",
     "latitude": "-31.903619",
     "longitude": "115.885156"
   },
   {
-    "merchant": "News Travels",
-    "location": "Brisbane Airport International Terminal QLD 4009",
+    "merchant": "News Travels (Brisbane International Airport)",
+    "location": "Level 3, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.401097",
     "longitude": "153.110536"
+  },
+  {
+    "merchant": "Nom Nom Bao",
+    "location": "Ground Floor 4/6 Warner St, Fortitude Valley QLD 4006",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.457702",
+    "longitude": "153.035169"
   },
   {
     "merchant": "Nom Nom Korean Eatery",
     "location": "680 Ann Street, Fortitude Valley 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457765",
     "longitude": "153.035105"
+  },
+  {
+    "merchant": "North Lakes Electrical",
+    "location": "11 Gilbert St, North Lakes QLD 4509",
+    "category": "Services",
+    "region": "North Lakes, QLD",
+    "latitude": "-27.225978",
+    "longitude": "153.017846"
   },
   {
     "merchant": "Off The Hook Fish & Chips",
     "location": "Lot 2 Round Hill Road, Agnes Water QLD 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.21133",
     "longitude": "151.903798"
   },
   {
+    "merchant": "Olio Cafe & Bar",
+    "location": "133 Grey St, South Brisbane QLD 4101",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.475943",
+    "longitude": "153.019537"
+  },
+  {
     "merchant": "On Show",
     "location": "160 Redland Bay Rd, Capalaba 4157",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Capalaba, QLD",
     "latitude": "-27.532599",
     "longitude": "153.200905"
+  },
+  {
+    "merchant": "Origin Kebabs (Broadbeach)",
+    "location": "Shop 3/88 Surf Parade, Broadbeach QLD 4218",
+    "category": "Dining",
+    "region": "Gold Coast, QLD",
+    "latitude": "-28.029075",
+    "longitude": "153.430858"
+  },
+  {
+    "merchant": "Origin Kebabs (Chermside)",
+    "location": "1 - FC7 Gympie Rd, Chermside QLD 4032",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.383534",
+    "longitude": "153.03138"
+  },
+  {
+    "merchant": "Origin Kebabs (Eagleby)",
+    "location": "Cnr Brigade Drive &, River Hills Rd, Eagleby QLD 4207",
+    "category": "Dining",
+    "region": "Logan, QLD",
+    "latitude": "-27.700881",
+    "longitude": "153.199187"
+  },
+  {
+    "merchant": "Origin Kebabs (QUT)",
+    "location": "2 George St, Brisbane City QLD 4000",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.478106",
+    "longitude": "153.029173"
+  },
+  {
+    "merchant": "Oscar Motel",
+    "location": "48JR+C4 Bundaberg West, Queensland",
+    "category": "Accommodation",
+    "region": "Bundaberg, QLD",
+    "latitude": "-24.868863",
+    "longitude": "152.340344"
   },
   {
     "merchant": "Pablo & Rusty's Coffee Roasters",
     "location": "200 Mary St, Brisbane City QLD 4000",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.469684",
     "longitude": "153.029497"
   },
   {
-    "merchant": "Paul Seils",
-    "location": "P: 0401 774 236, Brisbane City",
-    "category": "Real Estate",
-    "region": "Brisbane",
-    "latitude": "-27.469169",
-    "longitude": "153.026011"
+    "merchant": "Pickled Evenings Indian Restaurant",
+    "location": "135 George St, Launceston TAS 7250",
+    "category": "Dining",
+    "region": "Launceston, TAS",
+    "latitude": "-41.438056",
+    "longitude": "147.142267"
+  },
+  {
+    "merchant": "Pineapple Tours",
+    "location": "63 Cavill Ave, Surfers Paradise QLD 4217",
+    "category": "Travel Experiences",
+    "region": "Brisbane, QLD",
+    "latitude": "-28.001405",
+    "longitude": "153.426112"
+  },
+  {
+    "merchant": "Port Stephens Motel",
+    "location": "44 Magnus St, Nelson Bay NSW 2315",
+    "category": "Accommodation",
+    "region": "Nelson Bay, NSW",
+    "latitude": "-32.718778",
+    "longitude": "152.149991"
+  },
+  {
+    "merchant": "Powerix",
+    "location": "Sydney, NSW 2000",
+    "category": "Services",
+    "region": "Sydney, NSW",
+    "latitude": "-33.870923",
+    "longitude": "151.210648"
   },
   {
     "merchant": "PRD Nationwide Agnes Water",
     "location": "Shop 19 and 20 Endeavour Plaza, Captain Cook Dr, Agnes Water QLD 4677",
-    "category": "Real Estate",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.211448",
     "longitude": "151.902562"
   },
   {
-    "merchant": "Red Rooster",
-    "location": "Brisbane Airport Domestic and International Terminal",
+    "merchant": "Pron Prohm Thai Restaurant",
+    "location": "209 Concord Rd, North Strathfield NSW 2137",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Sydney, NSW",
+    "latitude": "-33.856801",
+    "longitude": "151.091842"
+  },
+  {
+    "merchant": "Red Rooster (Brisbane Domestic Airport)",
+    "location": "Level 2, Brisbane Airport (Domestic Terminal) QLD 4009",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.38556",
+    "longitude": "153.120402"
+  },
+  {
+    "merchant": "Red Rooster (Brisbane International Airport)",
+    "location": "Level 4, Brisbane Airport (International Terminal) QLD 4009",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
     "latitude": "-27.385349",
     "longitude": "153.120425"
   },
   {
     "merchant": "Reef Fish & Dive 1770",
     "location": "Shop 9, Agnes Water Shopping Centre, 2955 Round Hill Road, Agnes Water QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.212989",
     "longitude": "151.902032"
   },
   {
     "merchant": "Riverlife",
     "location": "Kangaroo Point Cliff Drives, Kangaroo Point 4169",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Travel Experiences",
+    "region": "Brisbane, QLD",
     "latitude": "-27.474416",
     "longitude": "153.034453"
   },
   {
-    "merchant": "S+T Fire & Food （Sydney）",
-    "location": "Australia Square Food Court, 264 George Street, CBD, Sydney, NSW",
+    "merchant": "Royal Black Private Transport",
+    "location": "Northgath, Brisbane QLD 4013",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.390495",
+    "longitude": "153.066782"
+  },
+  {
+    "merchant": "S+T Fire & Food",
+    "location": "Australia Square Food Court, 264 George Street, CBD, Sydney, NSW 2000",
     "category": "Dining",
-    "region": "Sydney",
+    "region": "Sydney, NSW",
     "latitude": "-33.864975",
     "longitude": "151.20783"
   },
@@ -683,7 +987,7 @@
     "merchant": "Sandcastles 1770 Motel and Resort",
     "location": "40 Captain Cook Dr, Agnes Water QLD 4677",
     "category": "Accommodation",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.208235",
     "longitude": "151.901994"
   },
@@ -691,47 +995,71 @@
     "merchant": "Satay Ria Malaysian Chinese Restaurant",
     "location": "165 Wickham Street, Fortitude Valley 4006",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.45824",
     "longitude": "153.033007"
   },
   {
     "merchant": "Scooter Roo Tours",
     "location": "2694 Round Hill Rd, Agnes Water QLD 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Travel Experiences",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.223108",
     "longitude": "151.880283"
   },
   {
-    "merchant": "Sensu Spa (Melbourne)",
+    "merchant": "Sensu Spa",
     "location": "T03/570 Bourke St, Melbourne VIC 3000",
-    "category": "Service",
-    "region": "Melbourne",
+    "category": "Services",
+    "region": "Melbourne, VIC",
     "latitude": "-37.815158",
     "longitude": "144.956591"
   },
   {
+    "merchant": "Sinamon Cafe",
+    "location": "76 Walcott St, Mount Lawley WA 6050",
+    "category": "Dining",
+    "region": "Perth, WA",
+    "latitude": "-31.934209",
+    "longitude": "115.872037"
+  },
+  {
     "merchant": "Sky Dance",
     "location": "Hanger 5, Qantas Ave, Archerfield QLD 4108",
-    "category": "Leisure Activity",
-    "region": "Brisbane",
+    "category": "Travel Experiences",
+    "region": "Brisbane, QLD",
     "latitude": "-27.571322",
     "longitude": "153.013933"
   },
   {
+    "merchant": "Starlight Seafood & Cafe",
+    "location": "2 Spurwood St, Algester QLD 4115",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.610484",
+    "longitude": "153.0325"
+  },
+  {
+    "merchant": "Steph's Cafe",
+    "location": "247 Wickham Street, Fortitude Valley",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.457675",
+    "longitude": "153.034206"
+  },
+  {
     "merchant": "Southern Cross Backpackers",
     "location": "2694 Round Hill Rd, Agnes Water QLD 4677",
-    "category": "Accomondation",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Accommodation",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.222868",
     "longitude": "151.880454"
   },
   {
-    "merchant": "Spoon",
-    "location": "Brisbane Airport International Terminal",
+    "merchant": "Spoon (Brisbane International Airport)",
+    "location": "Level 2, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.403164",
     "longitude": "153.109281"
   },
@@ -739,22 +1067,38 @@
     "merchant": "Steph's Cafe",
     "location": "247 Wickham Street, Fortitude Valley",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457675",
     "longitude": "153.034206"
   },
   {
-    "merchant": "Sumo Salad",
-    "location": "Brisbane Airport Domestic Terminal",
+    "merchant": "Sumo Salad (Brisbane Domestic Airport)",
+    "location": "Level 2, Brisbane Airport (Domestic Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.386014",
     "longitude": "153.119676"
   },
   {
+    "merchant": "Superbowl Chinese Restaurant",
+    "location": "185 Wickham St, Fortitude Valley QLD 4006",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.45795",
+    "longitude": "153.033495"
+  },
+  {
+    "merchant": "Sure Solar",
+    "location": "614/21 Duncan St, West End QLD 4101",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.482873",
+    "longitude": "153.000269"
+  },
+  {
     "merchant": "Sydney Harbour Luxe Charters",
     "location": "https://www.sydneyharbourluxecharters.com.au/contact-2/",
-    "category": "Service",
+    "category": "Travel Experiences",
     "region": "Online",
     "latitude": "-33.868385",
     "longitude": "151.202945"
@@ -763,15 +1107,15 @@
     "merchant": "Talunga Functions",
     "location": "198D Torrens Valley Rd, Gumeracha SA 5233",
     "category": "Dining",
-    "region": "Southern Australia",
+    "region": "Adelaide, SA",
     "latitude": "-34.82055",
     "longitude": "138.871019"
   },
   {
     "merchant": "Techworkz Automotive",
     "location": "4/209 Scollay St, Greenway ACT 2900",
-    "category": "Service",
-    "region": "Australian Capital Territory",
+    "category": "Services",
+    "region": "Canberra, ACT",
     "latitude": "-35.420929",
     "longitude": "149.068992"
   },
@@ -779,119 +1123,167 @@
     "merchant": "Thai Wi-Rat",
     "location": "270-292 Brunswick Street",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457486",
     "longitude": "153.033921"
   },
   {
-    "merchant": "The Barber of Seville （Melbourne）",
-    "location": "kiosk b 108 bourke street melbourne vic 3000",
-    "category": "Personal service",
-    "region": "Melbourne",
+    "merchant": "The Barber of Seville",
+    "location": "Kiosk B 108 Bourke Street, Melbourne VIC 3000",
+    "category": "Services",
+    "region": "Melbourne, VIC",
     "latitude": "-37.81159",
     "longitude": "144.969834"
   },
   {
-    "merchant": "The Botanist",
-    "location": "Brisbane Airport International Terminal",
+    "merchant": "The Botanist (Brisbane International Airport)",
+    "location": "Level 4, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.403503",
     "longitude": "153.109675"
+  },
+  {
+    "merchant": "The Home Provedore",
+    "location": "39 Market St, Fremantle WA 6160",
+    "category": "Retail",
+    "region": "Perth, WA",
+    "latitude": "-32.053906",
+    "longitude": "115.746073"
   },
   {
     "merchant": "The Roll Shop",
     "location": "88 Creek Street, Brisbane 4000",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.466938",
     "longitude": "153.027956"
   },
   {
-    "merchant": "Thrive Darwin （Darwin)）",
+    "merchant": "Thrive Darwin",
     "location": "Berrimah NT 0828",
     "category": "Dining",
-    "region": "Northern Territory",
+    "region": "Darwin, NT",
     "latitude": "-12.425353",
     "longitude": "130.922"
   },
   {
+    "merchant": "Tin Dragon Trail Cottages",
+    "location": "3a Coxs Ln, Branxholm TAS 7261",
+    "category": "Accommodation",
+    "region": "Branxholm, TAS",
+    "latitude": "-41.174578",
+    "longitude": "147.731997"
+  },
+  {
     "merchant": "Travel Leisure and Corporate",
     "location": "456 St Kilda Rd Suite 9 Melbourne Victoria 3004",
-    "category": "Travel Agency",
-    "region": "Melbourne",
+    "category": "Services",
+    "region": "Melbourne, VIC",
     "latitude": "-37.839725",
     "longitude": "144.975948"
   },
   {
-    "merchant": "Travstar (Carins)",
+    "merchant": "Travstar",
     "location": "101/27-29 Wharf St, Cairns City QLD 4870",
-    "category": "Service",
-    "region": "Carins",
+    "category": "Services",
+    "region": "Carins, QLD",
     "latitude": "-16.925142",
     "longitude": "145.779264"
   },
   {
-    "merchant": "Tuckeria",
-    "location": "421 Brunswick Street, Fortitude Valley 4006",
-    "category": "Dining",
-    "region": "Brisbane",
-    "latitude": "-27.459529",
-    "longitude": "153.036347"
-  },
-  {
     "merchant": "TWFINEART",
     "location": "181 Robertson St, Fortitude Valley QLD 4006",
-    "category": "Art Gallery",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.457384",
     "longitude": "153.040225"
   },
   {
-    "merchant": "Urban Pizza Bar (Sydney)",
+    "merchant": "Uniquely Thai",
+    "location": "1/34 Bulcock St, Caloundra QLD 4551",
+    "category": "Retail",
+    "region": "Caloundra, QLD",
+    "latitude": "-26.805102",
+    "longitude": "153.133571"
+  },
+  {
+    "merchant": "Urban Pizza Bar",
     "location": "28/12-14 Layton St, Camperdown NSW 2050",
     "category": "Dining",
-    "region": "Sydney",
+    "region": "Sydney, NSW",
     "latitude": "-33.885718",
     "longitude": "151.177252"
   },
   {
-    "merchant": "URBBANA",
+    "merchant": "URBBANA (Brisbane)",
     "location": "106 Edward St, Brisbane City QLD 4000",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.470265",
     "longitude": "153.028717"
   },
   {
-    "merchant": "URBBANA Hamilton",
+    "merchant": "URBBANA (Hamilton)",
     "location": "Shp 7/ 39 Hercules Street, Hamilton QLD 4007",
     "category": "Retail",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.439766",
     "longitude": "153.069388"
   },
   {
-    "merchant": "Wasabi Warriors",
-    "location": "Brisbane Airport Domestic Terminal",
+    "merchant": "Virtual Reality Adelaide",
+    "location": "207 Grenfell St, Adelaide SA 5000",
+    "category": "Services",
+    "region": "Adelaide, SA",
+    "latitude": "-34.924121",
+    "longitude": "138.608832"
+  },
+  {
+    "merchant": "VR Corner",
+    "location": "49 Regent St, Chippendale NSW 2008",
+    "category": "Services",
+    "region": "Sydney, NSW",
+    "latitude": "-33.885515",
+    "longitude": "151.202481"
+  },
+  {
+    "merchant": "Wasabi Warriors (Brisbane Domestic Airport)",
+    "location": "Level 2, Brisbane Airport (Domestic Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.384964",
     "longitude": "153.12159"
   },
   {
+    "merchant": "Wash Up (Fortitude Valley)",
+    "location": "650 Wickham St, Fortitude Valley QLD 4006",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.450012",
+    "longitude": "153.040423"
+  },
+  {
+    "merchant": "Wash Up (Slacks Creek)",
+    "location": "3525 Pacific Highway, Slacks Creek QLD 4127",
+    "category": "Services",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.636861",
+    "longitude": "153.13453"
+  },
+  {
     "merchant": "Wicked Copters",
     "location": "1 Westlink Ct, Darra QLD 4076",
-    "category": "Service",
-    "region": "Brisbane",
+    "category": "Services",
+    "region": "Brisbane, QLD",
     "latitude": "-27.565045",
     "longitude": "152.95064"
   },
   {
-    "merchant": "Windmill & Co",
-    "location": "Brisbane Airport International Terminal",
+    "merchant": "Windmill & Co (Brisbane International Airport)",
+    "location": "Level 3, Brisbane Airport (International Terminal) QLD 4009",
     "category": "Dining",
-    "region": "Brisbane",
+    "region": "Brisbane, QLD",
     "latitude": "-27.403856",
     "longitude": "153.110358"
   },
@@ -899,40 +1291,32 @@
     "merchant": "WiseGuise Pizza",
     "location": "447 Invermay Rd, Mowbray TAS 7248",
     "category": "Dining",
-    "region": "Tasmania",
+    "region": "Launceston, TAS",
     "latitude": "-41.400913",
     "longitude": "147.129755"
   },
   {
     "merchant": "Workman's Beach Camping Area",
     "location": "Workmans Beach, Springs Rd (238.83 mi) Agnes Water 4677",
-    "category": "Service",
-    "region": "Town of 1770 Agnes Water",
+    "category": "Services",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.212635",
     "longitude": "151.914693"
+  },
+  {
+    "merchant": "X Cargo",
+    "location": "37 McLachlan St, Fortitude Valley QLD 4005",
+    "category": "Dining",
+    "region": "Brisbane, QLD",
+    "latitude": "-27.458596",
+    "longitude": "153.036483"
   },
   {
     "merchant": "Yok Attack Thai Restaurant",
     "location": "Endeavour Plaza Captain Cook Drive, Agnes Water QLD 4677",
     "category": "Dining",
-    "region": "Town of 1770 Agnes Water",
+    "region": "Town of 1770 Agnes Water, QLD",
     "latitude": "-24.21147",
     "longitude": "151.902688"
-  },
-  {
-    "merchant": "Wash Up",
-    "location": "650 Wickham St, Fortitude Valley QLD 4006",
-    "category": "Service ",
-    "region": "Brisbane",
-    "latitude": "-27.450012",
-    "longitude": "153.040423"
-  },
-  {
-    "merchant": "Wash Up",
-    "location": "3525 Pacific Highway, Slacks Creek QLD 4127",
-    "category": "Service ",
-    "region": "Brisbane",
-    "latitude": "-27.636861",
-    "longitude": "153.13453"
   }
 ]
